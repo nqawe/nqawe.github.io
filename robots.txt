@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nqawe.github.io/GOM/sitemap.GOM.gz
